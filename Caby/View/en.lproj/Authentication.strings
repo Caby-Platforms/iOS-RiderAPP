@@ -1,0 +1,114 @@
+
+/* Class = "UILabel"; text = "Login to continue...."; ObjectID = "0jp-va-hk7"; */
+"0jp-va-hk7.text" = "Login to continue....";
+
+/* Class = "UIButton"; normalTitle = "New User ?"; ObjectID = "15R-YU-0XH"; */
+"15R-YU-0XH.normalTitle" = "New User ?";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "5Am-aR-Qoq"; */
+"5Am-aR-Qoq.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "We have sent you verification code via sms for mobile number verification."; ObjectID = "5K3-sf-W3L"; */
+"5K3-sf-W3L.text" = "We have sent you verification code via sms for mobile number verification.";
+
+/* Class = "UITextField"; placeholder = "●"; ObjectID = "5ON-ur-HLo"; */
+"5ON-ur-HLo.placeholder" = "●";
+
+/* Class = "UITextField"; placeholder = "●"; ObjectID = "6GW-vO-XcN"; */
+"6GW-vO-XcN.placeholder" = "●";
+
+/* Class = "UILabel"; text = "Create an account to continue.."; ObjectID = "9YY-5E-Bar"; */
+"9YY-5E-Bar.text" = "Create an account to continue..";
+
+/* Class = "UILabel"; text = "Verification Code"; ObjectID = "A4F-w3-bva"; */
+"A4F-w3-bva.text" = "Verification Code";
+
+/* Class = "UIButton"; normalTitle = "RESEND"; ObjectID = "AYv-79-QgJ"; */
+"AYv-79-QgJ.normalTitle" = "RESEND";
+
+/* Class = "UILabel"; text = "00 : 59"; ObjectID = "EIO-Qf-ee8"; */
+"EIO-Qf-ee8.text" = "00 : 59";
+
+/* Class = "UILabel"; text = "Can't Login to Your"; ObjectID = "Ewn-up-LTW"; */
+"Ewn-up-LTW.text" = "Can't Login to Your";
+
+/* Class = "UILabel"; text = "Please Enter Your"; ObjectID = "FQc-WD-7JW"; */
+"FQc-WD-7JW.text" = "Please Enter Your";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password ?"; ObjectID = "FgY-Iv-Ifc"; */
+"FgY-Iv-Ifc.normalTitle" = "Forgot Password ?";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "ISd-mB-QxJ"; */
+"ISd-mB-QxJ.placeholder" = "Code";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ix1-T2-vBH"; */
+"Ix1-T2-vBH.text" = "Label";
+
+/* Class = "UILabel"; text = "Caby Account"; ObjectID = "Mw6-tK-iRD"; */
+"Mw6-tK-iRD.text" = "Caby Account";
+
+/* Class = "UITextField"; placeholder = "●"; ObjectID = "NkF-99-b4M"; */
+"NkF-99-b4M.placeholder" = "●";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "Ouq-Dn-IG4"; */
+"Ouq-Dn-IG4.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qc4-Jh-qhK"; */
+"Qc4-Jh-qhK.text" = "Label";
+
+/* Class = "UILabel"; text = "I agree "; ObjectID = "SMX-84-X4Q"; */
+"SMX-84-X4Q.text" = "I agree ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Sdf-dY-mFo"; */
+"Sdf-dY-mFo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Skm-yP-e3b"; */
+"Skm-yP-e3b.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "SEARCH COUNTRY"; ObjectID = "TOs-iy-hyh"; */
+"TOs-iy-hyh.title" = "SEARCH COUNTRY";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "WTU-GY-x26"; */
+"WTU-GY-x26.text" = "LOGIN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xln-Uf-mcv"; */
+"Xln-Uf-mcv.text" = "Label";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "YE4-pU-ZTo"; */
+"YE4-pU-ZTo.text" = "Phone Number";
+
+/* Class = "UITextField"; placeholder = "●"; ObjectID = "ZR6-PM-p8o"; */
+"ZR6-PM-p8o.placeholder" = "●";
+
+/* Class = "UILabel"; text = "SIGN UP"; ObjectID = "Zab-VK-ntt"; */
+"Zab-VK-ntt.text" = "SIGN UP";
+
+/* Class = "UILabel"; text = "Welcome Back!"; ObjectID = "aVn-Cg-Pjv"; */
+"aVn-Cg-Pjv.text" = "Welcome Back!";
+
+/* Class = "UILabel"; text = "Please enter your email below to get your password reset instruction."; ObjectID = "afE-09-sPD"; */
+"afE-09-sPD.text" = "Please enter your email below to get your password reset instruction.";
+
+/* Class = "UIButton"; normalTitle = "Temp"; ObjectID = "gE7-MB-CaA"; */
+"gE7-MB-CaA.normalTitle" = "Temp";
+
+/* Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "gNW-hO-bpd"; */
+"gNW-hO-bpd.text" = "Terms & Conditions";
+
+/* Class = "UILabel"; text = "Don't worry, we got you!"; ObjectID = "gc5-0P-GHA"; */
+"gc5-0P-GHA.text" = "Don't worry, we got you!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hNA-mQ-doJ"; */
+"hNA-mQ-doJ.text" = "Label";
+
+/* Class = "UILabel"; text = "SUBMIT"; ObjectID = "iWl-2x-VcW"; */
+"iWl-2x-VcW.text" = "SUBMIT";
+
+/* Class = "UILabel"; text = "SUBMIT"; ObjectID = "pyT-dY-dHe"; */
+"pyT-dY-dHe.text" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "thx-o4-YHj"; */
+"thx-o4-YHj.text" = "Label";
+
+/* Class = "UILabel"; text = "Haven't Received?"; ObjectID = "wyH-qf-at9"; */
+"wyH-qf-at9.text" = "Haven't Received?";

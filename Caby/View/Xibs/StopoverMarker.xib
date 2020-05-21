@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Tg7-Ru-L23" userLabel="StopoverMarker" customClass="StopoverMarker" customModule="Caby" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="397" height="167"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="c7Q-WV-pbu">
+                    <rect key="frame" x="0.0" y="0.0" width="397" height="167"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_pin_Stop" translatesAutoresizingMaskIntoConstraints="NO" id="g3q-B6-VCF">
+                            <rect key="frame" x="0.0" y="0.0" width="397" height="167"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="i5q-Pb-o0Z">
+                            <rect key="frame" x="0.0" y="0.0" width="397" height="167"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="g3q-B6-VCF" firstAttribute="leading" secondItem="c7Q-WV-pbu" secondAttribute="leading" id="CRK-3I-OdR"/>
+                        <constraint firstItem="g3q-B6-VCF" firstAttribute="top" secondItem="c7Q-WV-pbu" secondAttribute="top" id="E5F-ta-r1T"/>
+                        <constraint firstAttribute="bottom" secondItem="i5q-Pb-o0Z" secondAttribute="bottom" id="MZx-58-WQp"/>
+                        <constraint firstAttribute="trailing" secondItem="g3q-B6-VCF" secondAttribute="trailing" id="W6F-06-RSB"/>
+                        <constraint firstItem="i5q-Pb-o0Z" firstAttribute="top" secondItem="c7Q-WV-pbu" secondAttribute="top" id="XI9-MD-Jym"/>
+                        <constraint firstAttribute="bottom" secondItem="g3q-B6-VCF" secondAttribute="bottom" id="Ycb-fj-pJq"/>
+                        <constraint firstAttribute="trailing" secondItem="i5q-Pb-o0Z" secondAttribute="trailing" id="eY3-FD-OUC"/>
+                        <constraint firstItem="i5q-Pb-o0Z" firstAttribute="leading" secondItem="c7Q-WV-pbu" secondAttribute="leading" id="gJU-Hz-iWD"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="c7Q-WV-pbu" firstAttribute="top" secondItem="Tg7-Ru-L23" secondAttribute="top" id="5zx-4s-V8h"/>
+                <constraint firstItem="c7Q-WV-pbu" firstAttribute="trailing" secondItem="XP8-bY-suf" secondAttribute="trailing" id="FkL-xi-JJP"/>
+                <constraint firstItem="XP8-bY-suf" firstAttribute="bottom" secondItem="c7Q-WV-pbu" secondAttribute="bottom" id="Nad-rQ-d28"/>
+                <constraint firstItem="c7Q-WV-pbu" firstAttribute="leading" secondItem="XP8-bY-suf" secondAttribute="leading" id="Qzs-A8-SXh"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="XP8-bY-suf"/>
+            <connections>
+                <outlet property="imgTitle" destination="g3q-B6-VCF" id="dCd-kU-YYc"/>
+                <outlet property="lblTitle" destination="i5q-Pb-o0Z" id="zf8-ms-T0f"/>
+                <outlet property="vwBg" destination="c7Q-WV-pbu" id="HzZ-y2-E9n"/>
+            </connections>
+            <point key="canvasLocation" x="-239.85507246376812" y="-192.52232142857142"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_pin_Stop" width="20" height="26"/>
+    </resources>
+</document>

@@ -1,0 +1,78 @@
+
+/* Class = "UINavigationItem"; title = "Edit Profile"; ObjectID = "1qe-ZJ-zDZ"; */
+"1qe-ZJ-zDZ.title" = "Edit Profile";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FGT-Cw-k3v"; */
+"FGT-Cw-k3v.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "G89-cD-lfn"; */
+"G89-cD-lfn.placeholder" = "Code";
+
+/* Class = "UILabel"; text = "SUBMIT"; ObjectID = "H06-US-U4g"; */
+"H06-US-U4g.text" = "SUBMIT";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "H11-Sg-wJs"; */
+"H11-Sg-wJs.title" = "Settings";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "I1f-cQ-CYB"; */
+"I1f-cQ-CYB.title" = "Title";
+
+/* Class = "UILabel"; text = "Please enter your current password below to change your old password."; ObjectID = "JOJ-Zv-QTR"; */
+"JOJ-Zv-QTR.text" = "Please enter your current password below to change your old password.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ju5-GA-t8K"; */
+"Ju5-GA-t8K.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "MGD-Lq-mrN"; */
+"MGD-Lq-mrN.title" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "4.5"; ObjectID = "MnN-Mg-SBj"; */
+"MnN-Mg-SBj.normalTitle" = "4.5";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Ogx-xA-ezP"; */
+"Ogx-xA-ezP.text" = "Password";
+
+/* Class = "UINavigationItem"; title = "Contact Us"; ObjectID = "SPB-If-UJx"; */
+"SPB-If-UJx.title" = "Contact Us";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Scw-r0-hUq"; */
+"Scw-r0-hUq.text" = "Label";
+
+/* Class = "UILabel"; text = "Don't worry, we got you!"; ObjectID = "W0a-fF-S86"; */
+"W0a-fF-S86.text" = "Don't worry, we got you!";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "XV5-ni-C87"; */
+"XV5-ni-C87.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "UPDATE"; ObjectID = "aDb-1M-GxD"; */
+"aDb-1M-GxD.text" = "UPDATE";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "bpM-iY-hHm"; */
+"bpM-iY-hHm.placeholder" = "Code";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eZA-tY-kLs"; */
+"eZA-tY-kLs.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ifk-Vo-gzq"; */
+"ifk-Vo-gzq.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "SUBMIT"; ObjectID = "jcw-ba-GL6"; */
+"jcw-ba-GL6.text" = "SUBMIT";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "lE2-XC-LhW"; */
+"lE2-XC-LhW.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Change Your"; ObjectID = "orB-AX-14k"; */
+"orB-AX-14k.text" = "Change Your";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "pL3-fT-Bvc"; */
+"pL3-fT-Bvc.text" = "Phone Number";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "uEF-oa-M9O"; */
+"uEF-oa-M9O.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "xiF-fK-5FH"; */
+"xiF-fK-5FH.normalTitle" = "Edit Profile";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "zgb-LA-Mi7"; */
+"zgb-LA-Mi7.text" = "Phone Number";

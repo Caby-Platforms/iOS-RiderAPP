@@ -1,0 +1,333 @@
+
+/* Class = "UILabel"; text = "Share the referral code to friends."; ObjectID = "1Z4-q8-sNC"; */
+"1Z4-q8-sNC.text" = "Share the referral code to friends.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2LZ-28-kpe"; */
+"2LZ-28-kpe.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2QC-hg-rHQ"; */
+"2QC-hg-rHQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "2Vi-X5-fyX"; */
+"2Vi-X5-fyX.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2sX-WI-rtU"; */
+"2sX-WI-rtU.text" = "Label";
+
+/* Class = "UILabel"; text = "Cancelling Your Ride?"; ObjectID = "398-Ul-7EV"; */
+"398-Ul-7EV.text" = "Cancelling Your Ride?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3nW-hj-tGx"; */
+"3nW-hj-tGx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "4ty-IN-NYV"; */
+"4ty-IN-NYV.normalTitle" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "4uR-uy-Dy4"; */
+"4uR-uy-Dy4.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Are You Booking for"; ObjectID = "5PY-Wh-64R"; */
+"5PY-Wh-64R.text" = "Are You Booking for";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5rx-aV-Fhz"; */
+"5rx-aV-Fhz.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6mO-AQ-kbO"; */
+"6mO-AQ-kbO.text" = "Label";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "8Ke-7h-heC"; */
+"8Ke-7h-heC.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "Regulars"; ObjectID = "8bc-OB-sbA"; */
+"8bc-OB-sbA.text" = "Regulars";
+
+/* Class = "UINavigationItem"; title = "Support"; ObjectID = "8jg-sg-lTH"; */
+"8jg-sg-lTH.title" = "Support";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9hI-wD-cqZ"; */
+"9hI-wD-cqZ.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Past Rides Details"; ObjectID = "A4f-Mv-M6Y"; */
+"A4f-Mv-M6Y.title" = "Past Rides Details";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AIh-JA-si8"; */
+"AIh-JA-si8.text" = "Label";
+
+/* Class = "UISearchBar"; placeholder = "Type Here"; ObjectID = "Ava-SQ-lQZ"; */
+"Ava-SQ-lQZ.placeholder" = "Type Here";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B9y-DA-S8t"; */
+"B9y-DA-S8t.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CAn-Td-84F"; */
+"CAn-Td-84F.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Contacts"; ObjectID = "F7J-3w-Dxs"; */
+"F7J-3w-Dxs.title" = "Contacts";
+
+/* Class = "UILabel"; text = "Drop Off"; ObjectID = "Fit-x9-t5i"; */
+"Fit-x9-t5i.text" = "Drop Off";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G3t-if-v8Y"; */
+"G3t-if-v8Y.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Select Report An Issue"; ObjectID = "GbQ-5l-6c9"; */
+"GbQ-5l-6c9.placeholder" = "Select Report An Issue";
+
+/* Class = "UIButton"; normalTitle = "Add New"; ObjectID = "GkR-J0-tbT"; */
+"GkR-J0-tbT.normalTitle" = "Add New";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "Hbh-52-MaR"; */
+"Hbh-52-MaR.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "Hjh-1A-anw"; */
+"Hjh-1A-anw.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "DRIVER INFO"; ObjectID = "HlZ-u0-YR8"; */
+"HlZ-u0-YR8.text" = "DRIVER INFO";
+
+/* Class = "UIButton"; normalTitle = "M PESA"; ObjectID = "J3H-Sc-Ffd"; */
+"J3H-Sc-Ffd.normalTitle" = "M PESA";
+
+/* Class = "UINavigationItem"; title = "Switch Profile"; ObjectID = "J9g-R7-dA2"; */
+"J9g-R7-dA2.title" = "Switch Profile";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JuT-vl-LoJ"; */
+"JuT-vl-LoJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Est.Time"; ObjectID = "K4p-Jf-p8l"; */
+"K4p-Jf-p8l.text" = "Est.Time";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KPV-8o-vsc"; */
+"KPV-8o-vsc.text" = "Label";
+
+/* Class = "UILabel"; text = "Drop Off"; ObjectID = "KX7-km-ba6"; */
+"KX7-km-ba6.text" = "Drop Off";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LGH-Ta-iik"; */
+"LGH-Ta-iik.text" = "Label";
+
+/* Class = "UILabel"; text = "INVITE NOW"; ObjectID = "Ntc-5e-aYq"; */
+"Ntc-5e-aYq.text" = "INVITE NOW";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O7z-ZP-K26"; */
+"O7z-ZP-K26.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OMN-1y-Ugm"; */
+"OMN-1y-Ugm.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Oha-e6-IIx"; */
+"Oha-e6-IIx.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "P4P-NE-fzH"; */
+"P4P-NE-fzH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pk4-wT-ApL"; */
+"Pk4-wT-ApL.text" = "Label";
+
+/* Class = "UITextField"; text = "Ganesh meredian"; ObjectID = "Qcl-ST-pU7"; */
+"Qcl-ST-pU7.text" = "Ganesh meredian";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "R1p-yU-HHw"; */
+"R1p-yU-HHw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RlO-Hp-bIY"; */
+"RlO-Hp-bIY.text" = "Label";
+
+/* Class = "UILabel"; text = "FARE INFO"; ObjectID = "S0y-IS-OKU"; */
+"S0y-IS-OKU.text" = "FARE INFO";
+
+/* Class = "UILabel"; text = "You Or For Someone Else?"; ObjectID = "S7k-Op-1Wr"; */
+"S7k-Op-1Wr.text" = "You Or For Someone Else?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S9c-PZ-uJK"; */
+"S9c-PZ-uJK.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "TCZ-4M-0jl"; */
+"TCZ-4M-0jl.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TXC-Rd-YV9"; */
+"TXC-Rd-YV9.text" = "Label";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "Thu-Ak-Jjr"; */
+"Thu-Ak-Jjr.text" = "Duration";
+
+/* Class = "UILabel"; text = "Drop Off"; ObjectID = "U2z-7w-2hY"; */
+"U2z-7w-2hY.text" = "Drop Off";
+
+/* Class = "UIButton"; normalTitle = "Tap To Copy"; ObjectID = "UJj-3y-jfp"; */
+"UJj-3y-jfp.normalTitle" = "Tap To Copy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "V6A-ju-Hsa"; */
+"V6A-ju-Hsa.text" = "Label";
+
+/* Class = "UILabel"; text = "Drop Off"; ObjectID = "VG5-3r-BV7"; */
+"VG5-3r-BV7.text" = "Drop Off";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VOt-Fn-MUh"; */
+"VOt-Fn-MUh.text" = "Label";
+
+/* Class = "UILabel"; text = "RIDE NOW"; ObjectID = "VeP-03-Yf8"; */
+"VeP-03-Yf8.text" = "RIDE NOW";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "W7y-53-Rra"; */
+"W7y-53-Rra.text" = "Distance";
+
+/* Class = "UIButton"; normalTitle = "Past Rides"; ObjectID = "WWV-n2-Z9f"; */
+"WWV-n2-Z9f.normalTitle" = "Past Rides";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X1Q-K0-dBJ"; */
+"X1Q-K0-dBJ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add Money "; ObjectID = "XKy-hD-gF1"; */
+"XKy-hD-gF1.normalTitle" = "Add Money ";
+
+/* Class = "UILabel"; text = "Why are you"; ObjectID = "YVj-a7-xBU"; */
+"YVj-a7-xBU.text" = "Why are you";
+
+/* Class = "UINavigationItem"; title = "Future Rides Details"; ObjectID = "YnK-49-ZGg"; */
+"YnK-49-ZGg.title" = "Future Rides Details";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "aQR-76-8aN"; */
+"aQR-76-8aN.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "baI-B9-JGx"; */
+"baI-B9-JGx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = " 4.2"; ObjectID = "bw7-NC-pDg"; */
+"bw7-NC-pDg.normalTitle" = " 4.2";
+
+/* Class = "UILabel"; text = "Car type"; ObjectID = "c3o-d4-sgH"; */
+"c3o-d4-sgH.text" = "Car type";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c8b-M8-2l7"; */
+"c8b-M8-2l7.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Future Rides"; ObjectID = "c9r-Wz-h1B"; */
+"c9r-Wz-h1B.normalTitle" = "Future Rides";
+
+/* Class = "UILabel"; text = "Refer Friends"; ObjectID = "csP-7R-wCh"; */
+"csP-7R-wCh.text" = "Refer Friends";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d5n-zt-YIt"; */
+"d5n-zt-YIt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dYB-XT-Z6M"; */
+"dYB-XT-Z6M.text" = "Label";
+
+/* Class = "UILabel"; text = "CONFIRM CABY"; ObjectID = "db1-Jw-5WX"; */
+"db1-Jw-5WX.text" = "CONFIRM CABY";
+
+/* Class = "UILabel"; text = "Transaction History"; ObjectID = "dwF-yW-gg7"; */
+"dwF-yW-gg7.text" = "Transaction History";
+
+/* Class = "UILabel"; text = "Book for me"; ObjectID = "eX4-YR-sZf"; */
+"eX4-YR-sZf.text" = "Book for me";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "ehB-2d-Aqv"; */
+"ehB-2d-Aqv.text" = "Pick Up";
+
+/* Class = "UIButton"; normalTitle = " 4.5"; ObjectID = "fF6-B9-Mf6"; */
+"fF6-B9-Mf6.normalTitle" = " 4.5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gy3-U6-Kdy"; */
+"gy3-U6-Kdy.text" = "Label";
+
+/* Class = "UILabel"; text = "CANCEL RIDE"; ObjectID = "hFa-NC-4Ba"; */
+"hFa-NC-4Ba.text" = "CANCEL RIDE";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "hrV-qf-5m4"; */
+"hrV-qf-5m4.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iNh-zp-WIF"; */
+"iNh-zp-WIF.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iTg-8W-iVx"; */
+"iTg-8W-iVx.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "j3r-X8-qX4"; */
+"j3r-X8-qX4.text" = "Label";
+
+/* Class = "UILabel"; text = "SUBMIT"; ObjectID = "k3a-eO-vOn"; */
+"k3a-eO-vOn.text" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Book for someone"; ObjectID = "kSj-1W-UAa"; */
+"kSj-1W-UAa.text" = "Book for someone";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kom-kl-CP1"; */
+"kom-kl-CP1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lMG-bn-XkG"; */
+"lMG-bn-XkG.text" = "Label";
+
+/* Class = "UILabel"; text = "You can Enter Phone Number Or Select From Contact List."; ObjectID = "lXw-rf-gkK"; */
+"lXw-rf-gkK.text" = "You can Enter Phone Number Or Select From Contact List.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lfS-8u-YRf"; */
+"lfS-8u-YRf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mcY-qA-y4g"; */
+"mcY-qA-y4g.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mey-s3-8c7"; */
+"mey-s3-8c7.text" = "Label";
+
+/* Class = "UILabel"; text = "CANCEL RIDE"; ObjectID = "mhO-TN-foj"; */
+"mhO-TN-foj.text" = "CANCEL RIDE";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "nOa-hg-jca"; */
+"nOa-hg-jca.text" = "TOTAL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nUg-jL-lOG"; */
+"nUg-jL-lOG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nlc-DQ-e6H"; */
+"nlc-DQ-e6H.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Select Past Ride"; ObjectID = "oiJ-8g-0xc"; */
+"oiJ-8g-0xc.placeholder" = "Select Past Ride";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "q81-Rb-F9Y"; */
+"q81-Rb-F9Y.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "r2f-Dw-d1a"; */
+"r2f-Dw-d1a.text" = "Label";
+
+/* Class = "UILabel"; text = "Est.Distance"; ObjectID = "s8v-Ra-q2r"; */
+"s8v-Ra-q2r.text" = "Est.Distance";
+
+/* Class = "UILabel"; text = "FARE INFO"; ObjectID = "sEX-pG-bRE"; */
+"sEX-pG-bRE.text" = "FARE INFO";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "uGL-Mp-YV8"; */
+"uGL-Mp-YV8.text" = "TOTAL";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."; ObjectID = "uzc-nW-fVJ"; */
+"uzc-nW-fVJ.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vCP-79-g1n"; */
+"vCP-79-g1n.text" = "Label";
+
+/* Class = "UILabel"; text = "SUBMIT"; ObjectID = "vWf-wq-tQ3"; */
+"vWf-wq-tQ3.text" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vkE-eF-pXA"; */
+"vkE-eF-pXA.text" = "Label";
+
+/* Class = "UITextField"; text = "Ahmedabad"; ObjectID = "w7M-Cg-N86"; */
+"w7M-Cg-N86.text" = "Ahmedabad";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "xLb-BT-uR2"; */
+"xLb-BT-uR2.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xQ6-CD-516"; */
+"xQ6-CD-516.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "My Rides"; ObjectID = "xkq-2w-YTU"; */
+"xkq-2w-YTU.title" = "My Rides";
+
+/* Class = "UINavigationItem"; title = "Wallet"; ObjectID = "yJX-Ah-kah"; */
+"yJX-Ah-kah.title" = "Wallet";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yN3-tP-GuS"; */
+"yN3-tP-GuS.text" = "Label";
